@@ -13,7 +13,7 @@ Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswM
 
 
 Thank you @rishabhnmishra
-https://github.com/rishabhnmishra
+(https://www.linkedin.com/in/rishabhnmishra/)
 
 
 
