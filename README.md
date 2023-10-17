@@ -6,3 +6,5 @@ This project is  to analyze the music playlist database. We can examine the data
 
 Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
 
+![image](https://github.com/Manpreetkaur0509/SQL/assets/146500547/a387c821-0048-465e-adca-d9d3f76fbed6)
+
